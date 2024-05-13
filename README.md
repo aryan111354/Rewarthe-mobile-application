@@ -68,9 +68,6 @@ This project is licensed under the [License Name] License - see the [LICENSE.md]
 
 
 
-```
+![image](https://github.com/aryan111354/Rewarthe-mobile-application/assets/120444352/452b06bf-737a-4cfb-9e83-e115ffb140c7)
 
-You can adjust the placeholders like `[License Name]` with the actual license used and `[your-email@example.com]` with the appropriate contact email address.
-
-![AllInOne](https://github.com/jayp0234/rewarthe-app-reactnative/assets/77848783/db329f82-eef5-4957-ac72-24c5fbe5856d)
 
