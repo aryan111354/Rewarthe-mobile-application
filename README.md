@@ -66,9 +66,7 @@ Contributions to the REWARTHE app are welcome! If you'd like to contribute, plea
 
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
 
-For any inquiries or suggestions, feel free to contact us at [your-email@example.com].
 
 ```
 
